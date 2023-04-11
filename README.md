@@ -11,3 +11,12 @@
   <a href="https://github.com/AnLaVN/AClip/commits/Releases"><img src="https://img.shields.io/github/last-commit/AnLaVN/AClip"></a>
   <a href="https://github.com/AnLaVN/AClip/releases"><img src="https://img.shields.io/github/release-date/AnLaVN/AClip"></a>
 </p>
+
+
+# Demo
+![image](https://user-images.githubusercontent.com/90229487/231189196-8fc5aa21-cff3-44a7-ab41-39d4e687b61d.png)
+![image](https://user-images.githubusercontent.com/90229487/231189331-1d66485a-9b86-475e-a5e2-f2a68662c87f.png)
+![image](https://user-images.githubusercontent.com/90229487/231188087-8eb78294-7de6-4a62-8095-954fe396dde6.png)
+
+![image](https://user-images.githubusercontent.com/90229487/231188753-8aab2765-c474-4c67-ad20-8a53365c593e.png)
+![image](https://user-images.githubusercontent.com/90229487/231188832-c8dde559-d460-4d8b-9976-2f5f2b664886.png)
