@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB/ModuleAdmin/Header.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/ModuleStatistics/UserLiked.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/ModuleStatistics/UserViewed.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/ModuleStatistics/VideoLiked.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/ModuleUsers/Detail.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/ModuleUsers/List.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/ModuleVideos/Detail.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/ModuleVideos/List.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/StatisticsManager.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/UsersManager.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleAdmin/VideosManager.jsp=UTF-8
+encoding//src/main/webapp/WEB/ModuleUser/Header.jsp=UTF-8
