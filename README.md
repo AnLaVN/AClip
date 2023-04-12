@@ -1,4 +1,4 @@
-<h1 align="center">AnLa Clip Web or AClip</h1>
+<h1 align="center">AnLa Clip Webapp or AClip</h1>
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5510/5510342.png" width = "50%">
   <br><br>
