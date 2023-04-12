@@ -23,3 +23,6 @@
 ![image](https://user-images.githubusercontent.com/90229487/231189678-a43e6f1f-b89b-4400-bfb5-fef58ac25e0d.png)
 ![image](https://user-images.githubusercontent.com/90229487/231188753-8aab2765-c474-4c67-ad20-8a53365c593e.png)
 ![image](https://user-images.githubusercontent.com/90229487/231188832-c8dde559-d460-4d8b-9976-2f5f2b664886.png)
+
+## 3. Error Page
+![image](https://user-images.githubusercontent.com/90229487/231374240-119bae9b-ce49-43fe-844d-4bc1b48a5de2.png)
