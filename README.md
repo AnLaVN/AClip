@@ -6,7 +6,6 @@
   <br><br>
   <img src="https://img.shields.io/github/repo-size/AnLaVN/AClip">
   <img src="https://img.shields.io/github/languages/code-size/AnLaVN/AClip">
-  <img src="https://img.shields.io/github/downloads/AnLaVN/AClip/total">
   <a href="https://github.com/AnLaVN/AClip/commits/Releases"><img src="https://img.shields.io/github/commit-activity/w/AnLaVN/AClip"></a>
   <a href="https://github.com/AnLaVN/AClip/commits/Releases"><img src="https://img.shields.io/github/last-commit/AnLaVN/AClip"></a>
   <a href="https://github.com/AnLaVN/AClip/releases"><img src="https://img.shields.io/github/release-date/AnLaVN/AClip"></a>
