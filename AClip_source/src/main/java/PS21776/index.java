@@ -32,18 +32,6 @@ public class index extends HttpServlet{
 	private static Email smtp = null;
 	
 	@Override
-	public void init() throws ServletException {
-        try{
-        	dn = new DocNet("https://raw.githubusercontent.com/AnLaVN/EOA/Releases/EOA-Version/EOA-Author.txt");
-			smtp = new Email(	AES.Decrypt(dn.readLine(), "5edf7d86ec54f9ce8357cd97d8592dcdf4ab243fa165157e981b0b613d97cd5d"), 
-			                	AES.Decrypt(dn.readLine(), "5edf7d86ec54f9ce8357cd97d8592dcdf4ab243fa165157e981b0b613d97cd5d"), 
-			                	"smtp.zoho.com");
-		}catch(IOException e){
-			Log.add("Loi khoi tao smtp");
-		}
-	}
-	
-	@Override
 	protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		String URI = req.getRequestURI(), lang = myScope.Request().getParameter("lang");
 		
